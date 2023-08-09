@@ -8,9 +8,15 @@ interface AtoresFilmeSelecionadoProps {
 
 const AtoresFilmeSelecionado: React.FC<AtoresFilmeSelecionadoProps> = ({ imagem, nome }) => {
   return (
-    <Box textAlign="center" marginRight="0px">
-      <Image src={imagem} alt={nome} w="100%" h="200px" borderWidth="1px" borderColor="teal" />
-      <Heading as="h5" color="white" mt="2">
+    <Box
+      style={{ border: "1px solid teal", borderRadius: "8px" }}
+      textAlign="center"
+      marginRight="3px"
+      p="10px"
+      maxW="150px"
+    >
+      <Image src={imagem} alt={nome} w="100%" h="150px" mx="auto" my="2" />
+      <Heading as="h3" color="white" fontSize="15px" mt="2">
         {nome}
       </Heading>
     </Box>
