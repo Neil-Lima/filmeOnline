@@ -5,6 +5,7 @@ import Home from '../pages/home/Home';
 import LayoutFilme from '../shared/Layout_filme/Layout_filme';
 import FormCadastroFilme from '../pages/form_cadastro_filme/FormCadastroFilme';
 import FilmeSelecionado from '../pages/Filme_selecionado/Filme_selecionado';
+import ComediaFilme from '../pages/Categorias/comedia/ComediaFilme';
 
 const Rotas: React.FC = () => {
   return (
@@ -14,6 +15,7 @@ const Rotas: React.FC = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/terror" element={<TerrorFilme />} />
+            <Route path="/comedia" element={<ComediaFilme />} />
             <Route path="/filmeselecionado/:id" element={<FilmeSelecionado />} />
             <Route path="/formcadastro" element={<FormCadastroFilme />} />
           </Routes>
