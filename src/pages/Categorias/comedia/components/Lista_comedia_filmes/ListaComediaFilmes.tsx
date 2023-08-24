@@ -11,7 +11,7 @@ interface Filme {
 }
 
 const ListaComediaFilmes: React.FC = () => {
-  const { dados, carregando, erro, paginaAtual, totalPaginas, paginar } = useApi<Filme>('http://localhost:3333/filmes', 6);
+  const { dados, carregando, erro, paginaAtual, totalPaginas, paginar } = useApi<Filme>('http://localhost:3333/filmes', 3);
 
 
   // Filtrar os filmes que possuem o gênero "Comedia"
