@@ -8,6 +8,11 @@ import FilmeSelecionado from '../pages/Filme_selecionado/Filme_selecionado';
 import ComediaFilme from '../pages/Categorias/comedia/ComediaFilme';
 import AventuraFilme from '../pages/Categorias/aventura/AventuraFilme';
 import FiccaoFilme from '../pages/Categorias/ficcao/FiccaoFilme';
+import RomanceFilme from '../pages/Categorias/Romance/RomanceFilme';
+import AcaoFilme from '../pages/Categorias/acao/AcaoFilme';
+import DramaFilme from '../pages/Categorias/drama/DramaFilme';
+import LutaFilme from '../pages/Categorias/luta/LutaFilme';
+import FaroesteFilme from '../pages/Categorias/faroeste/FaroesteFilme';
 
 const Rotas: React.FC = () => {
   return (
@@ -18,8 +23,13 @@ const Rotas: React.FC = () => {
             <Route path="/" element={<Home />} />
             <Route path="/terror" element={<TerrorFilme />} />
             <Route path="/comedia" element={<ComediaFilme />} />
-            <Route path="/aventura" element={<AventuraFilme />} />
+            <Route path="/aventura" element={<AventuraFilme />} />            
             <Route path="/ficcao" element={<FiccaoFilme />} />
+            <Route path="/romance" element={<RomanceFilme />} />
+            <Route path="/acao" element={<AcaoFilme />} />
+            <Route path="/drama" element={<DramaFilme />} />
+            <Route path="/luta" element={<LutaFilme />} />
+            <Route path="/faroeste" element={<FaroesteFilme />} />
             <Route path="/filmeselecionado/:id" element={<FilmeSelecionado />} />
             <Route path="/formcadastro" element={<FormCadastroFilme />} />
           </Routes>
