@@ -1,0 +1,718 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "titulo": "Freddy vs Jason",
+        "genero": "terror",
+        "data": "31 de outubro de 2003",
+        "diretor": "Ronny Yu",
+        "bilheteria": "25 milhões USD, 30 milhões",
+        "imagem": "https://media.fstatic.com/5MzWdpN6fe9NrDqEmYyNLml7H8s=/322x478/smart/filters:format(webp)/media/movies/covers/2011/02/e397587e15a19094af6ae45092b1a74e.jpg",
+        "capa": "https://aventurasnahistoria.uol.com.br/media/uploads/entretenimento/freddy_x_jason.jpg",
+        "sinopse": "Decidido a reiniciar sua matança, Freddy Krueger ressuscita Jason Voorhees e o utiliza para recuperar seus poderes.",
+        "atores": [
+            {
+                "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlwOaC8Nb_VHeLULefyuhIzXKvpe3Ri6STABiT4AmzV8c3Nxkp",
+                "nome": "Robert Englund"
+            },
+            {
+                "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9WAUvRx531EpEAHd_h7j0ST6GQ_Fu7uW1oE7CNz66zz3ChEra",
+                "nome": "Ken Kirzinger"
+            },
+            {
+                "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGMAKKnTIO_ubCNIkrUtk_5Nltwglv8WooA0zYmHMauRG7smX3",
+                "nome": "Monica Keena"
+            },
+            {
+                "imagem": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSBcp_uIGjSb1jWoCzFh2mOzGQihdLa-FcEPOOpQ2d9qRjgWTgjG_P4_EhNBkVFy8Tx",
+                "nome": "Katharine Isabelle"
+            },
+            {
+                "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAmcNrwmbzQhv8jRFpT3RRLOQLfMVv4dsOVAZgeNNkQwKqS0km",
+                "nome": "Kelly Rowland"
+            }
+        ],
+        "trailer": "https://youtu.be/ipbCUW3umJU"
+    },
+    {
+        "id": 2,
+        "titulo": "Pesadelo na Rua Elm",
+        "genero": "terror",
+        "data": "9 de novembro de 1984",
+        "diretor": "Wes Craven",
+        "bilheteria": "57 milhões USD",
+        "imagem": "https://br.web.img3.acsta.net/pictures/15/03/10/16/48/336112.jpg",
+        "capa": "https://br.web.img3.acsta.net/pictures/15/03/10/16/48/336112.jpg",
+        "sinopse": "Um assassino sobrenatural chamado Freddy Krueger persegue os sonhos de adolescentes de uma pequena cidade, causando mortes horríveis enquanto estão dormindo.",
+        "atores": [
+            {
+                "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlwOaC8Nb_VHeLULefyuhIzXKvpe3Ri6STABiT4AmzV8c3Nxkp",
+                "nome": "Robert Englund"
+            }
+        ],
+        "trailer": ""
+    },
+    {
+        "id": 3,
+        "titulo": "Halloween",
+        "genero": "terror",
+        "data": "25 de outubro de 1978",
+        "diretor": "John Carpenter",
+        "bilheteria": "70 milhões USD",
+        "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS616wS-im7oz53cdUwG7EooP4ZnRDR3Z0xPEp4scoZzMUDu8je",
+        "capa": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-original/2014/09/04/halloweenuniversal04092014.jpg",
+        "sinopse": "Quinze anos após assassinar sua irmã na noite de Halloween de 1963, Michael Myers escapa de um hospital psiquiátrico e volta para a pequena cidade de Haddonfield, Illinois, para matar novamente.",
+        "atores": [
+            {
+                "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1lECgdZ_ZYP5bFNBtA5eehN4bP2zVTksazMcX5OwT7yQMcktn",
+                "nome": "Jamie Lee Curtis"
+            },
+            {
+                "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Sq0M4lcwq0JOnj6v81gROYiRjhNeMWUXDdUIMcEWRf8QHHVT",
+                "nome": "Donald Pleasence"
+            }
+        ],
+        "trailer": ""
+    },
+    {
+        "id": 4,
+        "titulo": "O Iluminado",
+        "genero": "terror",
+        "data": "23 de maio de 1980",
+        "diretor": "Stanley Kubrick",
+        "bilheteria": "44 milhões USD",
+        "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgBcnfLW2H68J2aqMN3Fj7SOoDY05UYvZlepL_KkjIfC78dxyx",
+        "capa": "https://cdn.culturagenial.com/imagens/o-iluminado.jpg",
+        "sinopse": "Uma família se muda para um hotel isolado durante o inverno, onde uma presença sinistra influencia o pai a cometer atos violentos, enquanto seu filho sensitivo vê previsões horríveis do passado e do futuro.",
+        "atores": [
+            {
+                "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAWW5CiITozYvDSFqK1HrEwfHUYjI5CQ2b76BK3fBmocJlaFv",
+                "nome": "Jack Nicholson"
+            },
+            {
+                "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcT6WBHIjKTctX_GLynvTeLVTgGWg8EvACUMq1OUMXkWy9ICujcSTImC6sCJqj9ThtVC",
+                "nome": "Shelley Duvall"
+            }
+        ],
+        "trailer": ""
+    },
+    {
+        "id": 5,
+        "titulo": "Invocação do Mal",
+        "genero": "terror",
+        "data": "19 de julho de 2013",
+        "diretor": "James Wan",
+        "bilheteria": "319 milhões USD",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52yexdn-kxN_qPo9y6O_DUHnugikNGtMGkl7HMtY5DnDQ_HRg",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/dc/The_Conjuring_%282013%29.jpg/220px-The_Conjuring_%282013%29.jpg",
+        "sinopse": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença obscura em sua fazenda.",
+        "atores": [
+            {
+                "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQsGihEuK_oLqaY8Wo-U5f-Bk7-wsc91YhMJgq9RnHWVJLcVnYT1yRSIsokN8uNepAe",
+                "nome": "Vera Farmiga"
+            },
+            {
+                "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuvmLbWaZ-xW8yh-x0U7LwzvfqgwfZt22zFaIezT7g0dbzFYBh",
+                "nome": "Patrick Wilson"
+            }
+        ],
+        "trailer": "https://youtu.be/GQrrXceHn2E"
+    },
+    {
+        "id": 6,
+        "titulo": "A Bruxa",
+        "genero": "terror",
+        "data": "19 de fevereiro de 2016",
+        "diretor": "Robert Eggers",
+        "bilheteria": "40 milhões USD",
+        "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpTIDMdsWEStI5yAkPYtJcfloTOkYVCeCrD0ahQeHSnyYjBHcn",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/92/63/95/20208436.jpg",
+        "sinopse": "Uma família na Nova Inglaterra dos anos 1630 é despedaçada pelas forças da bruxaria, magia negra e possessão.",
+        "atores": [
+            {
+                "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ2PhEXCGYXRVnkalObc7slqPdro307S7I7cjzQay6VUVzVxN7-aNv4hSt-fKbJ9eEO",
+                "nome": "Anya Taylor-Joy"
+            }
+        ],
+        "trailer": ""
+    },
+    {
+      "id": 7,
+      "titulo": "O Exorcista",
+      "genero": "terror",
+      "data": "26 de dezembro de 1973",
+      "diretor": "William Friedkin",
+      "bilheteria": "441 milhões USD",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/7/7b/Exorcist_ver2.jpg",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/8/81/O_Exorcista_cartaz.jpg",
+      "sinopse": "Quando uma adolescente é possuída por uma entidade misteriosa, sua mãe busca a ajuda de dois padres para salvar sua filha.",
+      "atores": [
+          {
+              "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTH6Afasx2Rw6p22eDEGQpyAKM0Cv29Sz5dQ7YzMzS_gYDk3FVDD68GrYFUiJHXLd9d",
+              "nome": "Ellen Burstyn"
+          },
+          {
+              "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWrZZe1gmq8I8Pv09xSsdlSMUWVwOuvD5iUmiUAgpGWsKMVne",
+              "nome": "Linda Blair"
+          }
+      ],
+      "trailer": ""
+  },
+  {
+      "id": 8,
+      "titulo": "O Massacre da Serra Elétrica",
+      "genero": "terror",
+      "data": "4 de outubro de 1974",
+      "diretor": "Tobe Hooper",
+      "bilheteria": "30 milhões USD",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIuVC5f5UgfMf5ZlSjd7nQa-4SFqv_hocQgRnm8MI1HfzU43W",
+      "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/91/95/35/20209010.jpg",
+      "sinopse": "Dois irmãos e três amigos que estão indo visitar o túmulo de seu avô no Texas acabam sendo vítimas de uma família de psicopatas canibais e devem sobreviver aos terrores de Leatherface e sua família.",
+      "atores": [
+          {
+              "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh5J7nOsypiNWn6hQpQodPN1FPujnHNj6wdu26FQFLb86dWkMB",
+              "nome": "Gunnar Hansen"
+          },
+          {
+              "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLxwbMFS44ZABZics83NCDqmr-JlrAmZCVc5pS7HZ2A9fe4TtX",
+              "nome": "Marilyn Burns"
+          }
+      ],
+      "trailer": ""
+  },
+  {
+      "id": 9,
+      "titulo": "O Bebê de Rosemary",
+      "genero": "terror",
+      "data": "12 de junho de 1968",
+      "diretor": "Roman Polanski",
+      "bilheteria": "33 milhões USD",
+      "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIAQ8clG8-e4MAoVEvYGMRCnSgrfKqf6e0iVEFCX907_2bocjR",
+      "capa": "https://br.web.img3.acsta.net/pictures/14/06/10/14/56/446652.jpg",
+      "sinopse": "Um jovem casal tentando ter um bebê se muda para um apartamento chique cercado por vizinhos peculiares.",
+      "atores": [
+          {
+              "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon6fkCWLoQKLAETQBf5soBhV4b2dJHI8MOREGdcXKD5WiDKQW",
+              "nome": "Mia Farrow"
+          },
+          {
+              "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQ5PYeYRpzHrwIh8B25PRVJ68y9GF5PiXyAT7HCY2nM633qIVDpqLKymbZ1kWwzDFQf",
+              "nome": "John Cassavetes"
+          }
+      ],
+      "trailer": ""
+  },
+  {
+      "id": 10,
+      "titulo": "A Escolha Perfeita",
+      "genero": "comedia",
+      "data": "28 de setembro de 2012",
+      "diretor": "Jason Moore",
+      "bilheteria": "$115,4 milhões",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Pitch_Perfect_movie_poster.jpg/220px-Pitch_Perfect_movie_poster.jpg",
+      "capa": "https://m.media-amazon.com/images/I/61+QRbV7ZbL._AC_SY679_.jpg",
+      "sinopse": "Uma estudante universitária se junta a um grupo a capella e se envolve em uma competição musical.",
+      "atores": [
+          {
+              "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Anna_Kendrick_in_2019.jpg/220px-Anna_Kendrick_in_2019.jpg",
+              "nome": "Anna Kendrick"
+          },
+          {
+              "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rebel_Wilson_%288236194116%29_%28cropped%29.jpg/220px-Rebel_Wilson_%288236194116%29_%28cropped%29.jpg",
+              "nome": "Rebel Wilson"
+          }
+      ],
+      "trailer": "https://youtu.be/F03N-6dqolw"
+  },
+  {
+      "id": 11,
+      "titulo": "Esqueceram de Mim",
+      "genero": "comedia",
+      "data": "16 de novembro de 1990",
+      "diretor": "Chris Columbus",
+      "bilheteria": "$476,7 milhões",
+      "imagem": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9BA2FBB1FACF0160808C5E6C874CE4A95D5678DD94E2039151A1E789551B0C74/scale?width=506&aspectRatio=2.00&format=jpeg",
+      "capa": "https://images-na.ssl-images-amazon.com/images/I/91XR+jr28IL._AC_SY679_.jpg",
+      "sinopse": "Um garoto é esquecido por sua família e precisa defender sua casa contra ladrões usando armadilhas criativas.",
+      "atores": [
+          {
+              "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-PYaFGd969P5Vk9nEtACOLuHJt6szXO0dNp5yba_MitvTpRMW",
+              "nome": "Macaulay Culkin"
+          }
+      ],
+      "trailer": "https://youtu.be/jEDaVHmw7r4"
+  },
+  {
+      "id": 12,
+      "titulo": "Superbad: É Hoje",
+      "genero": "comedia",
+      "data": "17 de agosto de 2007",
+      "diretor": "Greg Mottola",
+      "bilheteria": "$169,9 milhões",
+      "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGE3OlOQAvhW4YRgN-5p4i7gLZItR55W2WcHru65TA-OEg0Blv",
+      "capa": "https://br.web.img3.acsta.net/pictures/14/06/10/14/56/446652.jpg",
+      "sinopse": "Dois amigos inseparáveis tentam arrumar bebidas para uma festa e fazer sucesso com as garotas antes de se formarem no ensino médio.",
+      "atores": [
+          {
+              "imagem": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTD03xK9zTBTtxgi1tTh7kyM1viy1_gxcsmSkrEbFOcz1005tIzRX8Akqn9TrzJijs9",
+              "nome": "Jonah Hill"
+          },
+          {
+              "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT_sbUP9s_K8E1gRdbrwuFz1mIfzuF0vyan2ph9kYAYT2L26B77d15u4nEsou26KIhF",
+              "nome": "Michael Cera"
+          }
+      ],
+      "trailer": "https://youtu.be/_YoCI9vKm0g"
+  },
+  {
+      "id": 13,
+      "titulo": "Ted",
+      "genero": "comedia",
+      "data": "29 de junho de 2012",
+      "diretor": "Seth MacFarlane",
+      "bilheteria": "$549,4 milhões",
+      "imagem": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcT_B-IlDVnnUHpautmNU6eQhCt51OJ1qVj8OynbLoZqp45M9cpwKfg4figW7ap2Tdab",
+      "capa": "https://images-na.ssl-images-amazon.com/images/I/71VlM7We4xL._AC_SY679_.jpg",
+      "sinopse": "Um homem adulto mantém uma amizade com seu ursinho de pelúcia que ganhou vida.",
+      "atores": [
+          {
+              "imagem": "https://media.fstatic.com/xSCrcJ3a2xTYd81xxd9hYCltgkM=/210x312/smart/filters:format(webp)/media/artists/avatar/2015/02/mark-wahlberg_a7892_HBKoufs.jpg",
+              "nome": "Mark Wahlberg"
+          },
+          {
+              "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRwJHoQO2Iy-DdV6zs80lgBa9BcFtFzEolsA-a_ff66Kq44CZtrRPDuc_eYgGZsc3Rs",
+              "nome": "Mila Kunis"
+          }
+      ],
+      "trailer": "https://youtu.be/9fbo_pQvU7M"
+  },
+  {
+      "id": 14,
+      "titulo": "Juno",
+      "genero": "comedia",
+      "data": "5 de dezembro de 2007",
+      "diretor": "Jason Reitman",
+      "bilheteria": "$231,4 milhões",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6b/Juno_P%C3%B4ster.jpg",
+      "capa": "https://images-na.ssl-images-amazon.com/images/I/91btpSAdJqL._AC_SY679_.jpg",
+      "sinopse": "Uma adolescente engravida acidentalmente e decide dar seu bebê para adoção, mas acaba formando um vínculo incomum com o casal que quer adotar o bebê.",
+      "atores": [
+          {
+              "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60iEC6Iea3JNXoUb0zoMUNO_3nMeV9sqBBduZSBTuwG6RAyUm",
+              "nome": "Ellen Page"
+          },
+          {
+              "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT_sbUP9s_K8E1gRdbrwuFz1mIfzuF0vyan2ph9kYAYT2L26B77d15u4nEsou26KIhF",
+              "nome": "Michael Cera"
+          }
+      ],
+      "trailer": "https://youtu.be/K0SKf0K3bxg"
+  },
+  {
+      "id": 15,
+      "titulo": "Um Senhor Estagiário",
+      "genero": "comedia",
+      "data": "24 de setembro de 2015",
+      "diretor": "Nancy Meyers",
+      "bilheteria": "$194,6 milhões",
+      "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZc7tQfp26e7Oed76GJBrgATMOle8MUwUtT6NYRRzB29uQDZoI",
+      "capa": "https://m.media-amazon.com/images/I/71YrHJes0OL._AC_SY679_.jpg",
+      "sinopse": "Um viúvo idoso se torna estagiário em uma empresa de moda online e cria um vínculo especial com sua chefe jovem e bem-sucedida.",
+      "atores": [
+          {
+              "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQqxMaKOGL2x4tVbs5JGg9dcOQKhadQvAA-brushdxaF5b5-t5IFxUl45wjaH3viwe1",
+              "nome": "Robert De Niro"
+          },
+          {
+              "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRpRZkuSbatHow9F3n2nBhIpMA1TMLsKo3v6C_Bcgo4PTtHpV1JGMyAt9jnAaYX5eoH",
+              "nome": "Anne Hathaway"
+          }
+      ],
+      "trailer": "https://youtu.be/ZU3tH-jL1Ys"
+  },
+  {
+    "id": 16,
+    "titulo": "A Mentira",
+    "genero": "comedia",
+    "data": "25 de setembro de 2010",
+    "diretor": "Will Gluck",
+    "bilheteria": "$76,6 milhões",
+    "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEkGTey_8soFc_V6B6euiegiav7fB7Etak5SVsPzq_cNJ1zlfV",
+    "capa": "https://m.media-amazon.com/images/I/51SKSUtl5mL._AC_SY679_.jpg",
+    "sinopse": "Uma adolescente espalha um boato falso sobre sua vida sexual para ganhar popularidade, mas as coisas saem de controle quando a mentira se espalha.",
+    "atores": [
+      {
+        "nome": "Emma Stone",
+        "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMymiioIp2PlZ2hDlPeEdggaPhpGqikjOO26ZUzY-GX0KqmEtM"
+      },
+      {
+        "nome": "Penn Badgley",
+        "imagem": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTVBKT_8MbLK9Is8znikAH1SoMXiTLMfZGlYdqjdwR8QAp7RHhO1EupjRsgt1eKHqjX"
+      }
+    ],
+    "trailer": "https://youtu.be/KNbPnqyvItk"
+  },
+  {
+    "id": 17,
+    "titulo": "Loucuras de Verão",
+    "genero": "comedia",
+    "data": "10 de julho de 1981",
+    "diretor": "Ivan Reitman",
+    "bilheteria": "$141,6 milhões",
+    "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmmf_n5slyZhUKwYdWC_W4KfBKkk-jJRof5Y0wrj0M_IVewAW_",
+    "capa": "",
+    "sinopse": "Durante um verão, um grupo de amigos vive diversas aventuras e confusões enquanto tenta se divertir e conquistar suas paixões.",
+    "atores": [
+      {
+        "nome": "Bill Murray",
+        "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaTM570f9Ng60bB95A-4etaBVo4eenlHt9i3UDceG5fuTMYiGN"
+      },
+      {
+        "nome": "Harold Ramis",
+        "imagem": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRAjY3EYLa4B021FF-0M7czqz366RVBAJn3W2lMZUKjMUL0yV_yKLj1sf_81oR0nyiH"
+      }
+    ],
+    "trailer": "URL_DO_TRAILER"
+  },
+  {
+    "id": 18,
+    "titulo": "As Branquelas",
+    "genero": "comedia",
+    "data": "23 de junho de 2004",
+    "diretor": "Keenen Ivory Wayans",
+    "bilheteria": "$113,1 milhões",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sWLqgnnMjPyRNfkk2YUCc8Q7hUs9D5n5rTjhXFCE5tLQwQhq",
+    "capa": "URL_DA_CAPA_DO_FILME",
+    "sinopse": "Dois agentes do FBI se disfarçam como socialites para proteger as herdeiras de um hotel de luxo de um sequestro, mas as coisas não saem como o planejado.",
+    "atores": [
+      {
+        "nome": "Shawn Wayans",
+        "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS6BGdWLTZZwOtLk753B66n05U6f62iuF3IGvACUt4F_PRMu2a1fSwoKUKhyXZvMdjQ"
+      },
+      {
+        "nome": "Marlon Wayans",
+        "imagem": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcR5MiyHgeVUZUQL14T1TmLHp5Aw0Xd64bpQNmssoA1V7k4HPTqATeNH95uqE1YxiaT8"
+      }
+    ],
+    "trailer": "URL_DO_TRAILER"
+  },
+  {
+    "id": 19,
+    "titulo": "O Virgem de 40 Anos",
+    "genero": "comedia",
+    "data": "19 de agosto de 2005",
+    "diretor": "Judd Apatow",
+    "bilheteria": "$177,4 milhões",
+    "imagem": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyWgReMEpU03QT5DbEHjPzWp1Sl-Fpx9cxwFx6MnPUwrsuK2AE",
+    "capa": "",
+    "sinopse": "Um homem de 40 anos que nunca teve relações sexuais tenta mudar sua situação com a ajuda de seus amigos desajeitados.",
+    "atores": [
+      {
+        "nome": "Steve Carell",
+        "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSmFycczfP09CTz1AFdTcFs0so8iq1_1xAhdYqATwtyBNOj1UNYIlJ42rQHiAQggGnF"
+      }
+    ],
+    "trailer": "URL_DO_TRAILER"
+  },
+  {
+    "id": 20,
+    "titulo": "Amizade Colorida",
+    "genero": "comedia",
+    "data": "22 de julho de 2011",
+    "diretor": "Will Gluck",
+    "bilheteria": "$149,5 milhões",
+    "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzqps3KIr3aLHqVYonx-TI0gAkXenDOye4EWYaJcRHNo7VSELe",
+    "capa": "",
+    "sinopse": "Dois amigos decidem iniciar um relacionamento puramente físico, mas as coisas se complicam quando sentimentos reais entram em jogo.",
+    "atores": [
+      {
+        "nome": "Justin Timberlake",
+        "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSFeE4k0vUJcH-fTqIsiBFJG8RpjXRIWNJVWh5uMivHFun-gCkPzRrPokF8drs9hse9"
+      },
+      {
+        "nome": "Mila Kunis",
+        "imagem": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRwJHoQO2Iy-DdV6zs80lgBa9BcFtFzEolsA-a_ff66Kq44CZtrRPDuc_eYgGZsc3Rs"
+      }
+    ],
+    "trailer": "URL_DO_TRAILER"
+  },
+  {
+    "id": 21,
+    "titulo": "O Poderoso Chefão",
+    "genero": "drama",
+    "data": "24 de março de 1972",
+    "diretor": "Francis Ford Coppola",
+    "bilheteria": "$246,1 milhões",
+    "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg",
+    "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg",
+    "sinopse": "Um chefão da máfia italiana transfere o controle de seu império clandestino para seu filho relutante.",
+    "atores": [
+      {
+        "nome": "Marlon Brando",
+        "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/51/54/20040663.jpg"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "titulo": "A Lista de Schindler",
+    "genero": "drama",
+    "data": "11 de fevereiro de 1994",
+    "diretor": "Steven Spielberg",
+    "bilheteria": "$322,1 milhões",
+    "imagem": "https://br.web.img2.acsta.net/pictures/19/04/10/19/44/2904073.jpg",
+    "capa": "https://br.web.img2.acsta.net/pictures/19/04/10/19/44/2904073.jpg",
+    "sinopse": "Um industrial alemão salva mais de mil judeus durante o Holocausto, ao empregar os prisioneiros em sua fábrica de munição.",
+    "atores": [
+      {
+        "nome": "Liam Neeson",
+        "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/18/07/27/21/34/3700092.jpg"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "genero": "drama",
+    "data": "7 de julho de 1994",
+    "diretor": "Robert Zemeckis",
+    "bilheteria": "$678,2 milhões",
+    "imagem": "https://m.media-amazon.com/images/S/pv-target-images/b74b3582f5bd1c6c716eef9c4649af78340d9ba2ea4e26ad520a522edf4d2751.jpg",
+    "capa": "https://m.media-amazon.com/images/S/pv-target-images/b74b3582f5bd1c6c716eef9c4649af78340d9ba2ea4e26ad520a522edf4d2751.jpg",
+    "sinopse": "Um homem simples se envolve em alguns dos momentos mais importantes da história dos Estados Unidos.",
+    "atores": [
+      {
+        "nome": "Tom Hanks",
+        "imagem": "https://br.web.img3.acsta.net/pictures/18/08/08/18/47/1167635.jpg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "titulo": "Um Sonho de Liberdade",
+    "genero": "drama",
+    "data": "14 de outubro de 1994",
+    "diretor": "Frank Darabont",
+    "bilheteria": "$58,3 milhões",
+    "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/90/16/48/20083748.jpg",
+    "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/90/16/48/20083748.jpg",
+    "sinopse": "Um banqueiro é condenado à prisão perpétua por crimes que não cometeu e se torna amigo de um colega preso.",
+    "atores": [
+      {
+        "nome": "Tim Robbins",
+        "imagem": "https://br.web.img2.acsta.net/pictures/14/08/14/22/56/542740.jpg"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "titulo": "A Vida é Bela",
+    "genero": "drama",
+    "data": "12 de fevereiro de 1999",
+    "diretor": "Roberto Benigni",
+    "bilheteria": "$229,4 milhões",
+    "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/87/87/63/19962446.jpg",
+    "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/87/87/63/19962446.jpg",
+    "sinopse": "Um judeu protege seu filho pequeno em um campo de concentração fingindo que a experiência é um jogo.",
+    "atores": [
+      {
+        "nome": "Roberto Benigni",
+        "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/15/06/05/23/24/294697.jpg"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "titulo": "O Resgate do Soldado Ryan",
+    "genero": "drama",
+    "data": "24 de julho de 1998",
+    "diretor": "Steven Spielberg",
+    "bilheteria": "$482,3 milhões",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/96/07/36/20443914.jpg",
+    "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/96/07/36/20443914.jpg",
+    "sinopse": "Um grupo de soldados americanos é enviado atrás das linhas inimigas para salvar o soldado James Ryan, cujos três irmãos foram mortos em combate.",
+    "atores": [
+      {
+        "nome": "Tom Hanks",
+        "imagem": "https://br.web.img3.acsta.net/pictures/18/08/08/18/47/1167635.jpghttps://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMXXyDObbRA1oZBV7_fWlphQQlNHJkiUr5PBNw5OYBpUJFCe6e"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "titulo": "A Espera de um Milagre",
+    "genero": "drama",
+    "data": "10 de dezembro de 1999",
+    "diretor": "Frank Darabont",
+    "bilheteria": "$286,8 milhões",
+    "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/91/66/66/20156966.jpg",
+    "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/91/66/66/20156966.jpg",
+    "sinopse": "Um guarda penitenciário de uma milagrosa prisão de Louisiana desenvolve um relacionamento especial com um detento que possui um dom sobrenatural.",
+    "atores": [
+      {
+        "nome": "Tom Hanks",
+        "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSh8t2BscNjOYf5h1qUaZgxfv1azQ-rZtvBbJApPB1SC_WDF-fE"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "titulo": "O Lado Bom da Vida",
+    "genero": "drama",
+    "data": "8 de fevereiro de 2013",
+    "diretor": "David O. Russell",
+    "bilheteria": "$236,4 milhões",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/21/86/20416349.jpg",
+    "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/21/86/20416349.jpg",
+    "sinopse": "Depois de passar um tempo em uma instituição mental, Pat Solitano Jr. tenta reconstruir sua vida e vencer sua ex-esposa.",
+    "atores": [
+      {
+        "nome": "Bradley Cooper",
+        "imagem": "https://br.web.img3.acsta.net/pictures/19/02/21/10/42/0074317.jpg"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "titulo": "A Origem",
+    "genero": "drama",
+    "data": "6 de agosto de 2010",
+    "diretor": "Christopher Nolan",
+    "bilheteria": "$829,9 milhões",
+    "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/87/32/31/20028688.jpg",
+    "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/87/32/31/20028688.jpg",
+    "sinopse": "Um ladrão que invade os sonhos das pessoas para roubar seus segredos corporativos tem a chance de redenção quando um empresário o contrata para implantar uma ideia em um concorrente.",
+    "atores": [
+      {
+        "nome": "Leonardo DiCaprio",
+        "imagem": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/92/61/22/20208787.jpg"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "titulo": "O Discurso do Rei",
+    "genero": "drama",
+    "data": "28 de janeiro de 2011",
+    "diretor": "Tom Hooper",
+    "bilheteria": "$427,4 milhões",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/34/18/20028728.jpg",
+    "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/34/18/20028728.jpg",
+    "sinopse": "O rei da Grã-Bretanha, George VI, luta para superar sua gagueira com a ajuda de um terapeuta excêntrico.",
+    "atores": [
+      {
+        "nome": "Colin Firth",
+        "imagem": "https://br.web.img2.acsta.net/pictures/22/09/21/19/03/4661081.jpg"
+      }
+    ]
+  },
+  
+  {
+    "id": 51,
+    "titulo": "Vingadores: Guerra Infinita",
+    "genero": "acao",
+    "data": "27 de abril de 2018",
+    "diretor": "Anthony Russo, Joe Russo",
+    "bilheteria": "$2,048 bilhões",
+    "sinopse": "Os Vingadores e seus aliados devem estar dispostos a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que sua blitz de devastação e ruína ponha fim ao universo.",
+    "imagem": "https://lumiere-a.akamaihd.net/v1/images/unnamed_10_2a3389cf.jpeg?region=0%2C0%2C356%2C512",
+    "capa": "https://lumiere-a.akamaihd.net/v1/images/unnamed_10_2a3389cf.jpeg?region=0%2C0%2C356%2C512",
+    "atores": [
+      {
+        "nome": "Robert Downey Jr.",
+        "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/18/06/29/00/35/0101925.jpg"
+      },
+      {
+        "nome": "Chris Hemsworth",
+        "imagem": "https://images.mubicdn.net/images/cast_member/24207/cache-62264-1615052248/image-w856.jpg?size=800x"
+      }
+    ],
+    "trailer": "pVxOVlm_lE8"
+  },
+  {
+    "id": 52,
+    "titulo": "Velozes e Furiosos 7",
+    "genero": "acao",
+    "data": "2 de abril de 2015",
+    "diretor": "James Wan",
+    "bilheteria": "$1,515 bilhões",
+    "sinopse": "Deckard Shaw procura vingança contra Dominic Toretto e sua família por seu irmão.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b8/Furious_7_poster.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/b/b8/Furious_7_poster.jpg",
+    "atores": [
+      {
+        "nome": "Vin Diesel",
+        "imagem": "https://s2-gshow.glbimg.com/kiQU1clCzzbR1-8WCtBvEDpfTAc=/33x0:318x509/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2021/0/E/2TL9LaRUW53CYykz66qg/vin-diesel.png"
+      },
+      {
+        "nome": "Chris Hemsworth",
+        "imagem": "https://images.mubicdn.net/images/cast_member/24207/cache-62264-1615052248/image-w856.jpg?size=800x"
+      }
+    ],
+    "trailer": "Skpu5HaVkOc"
+  },
+  {
+    "id": 53,
+    "titulo": "Pantera Negra",
+    "genero": "acao",
+    "data": "16 de fevereiro de 2018",
+    "diretor": "Ryan Coogler",
+    "bilheteria": "$1,347 bilhão",
+    "sinopse": "T'Challa, herda o trono de Wakanda, uma nação tecnologicamente avançada, após a morte de seu pai, e se torna Pantera Negra. T'Challa precisa defender seu povo contra o antagonista Ulysses Klaue e do ex-soldado americano convertido em mercenário Erik Killmonger.",
+    "imagem": "https://br.web.img2.acsta.net/pictures/17/12/07/16/09/2291532.jpg",
+    "capa": "https://br.web.img2.acsta.net/pictures/17/12/07/16/09/2291532.jpg",
+    "atores": [
+      {
+        "nome": "Chadwick Boseman",
+        "imagem": "https://br.web.img3.acsta.net/pictures/16/10/21/17/23/376701.jpg"
+      }     
+    ],
+    "trailer": "xjDjIWPwcPU"
+  },
+  {
+    "id": 54,
+    "titulo": "Aquaman",
+    "genero": "acao",
+    "data": "13 de dezembro de 2018",
+    "diretor": "James Wan",
+    "bilheteria": "$1,148 bilhão",
+    "sinopse": "Arthur Curry, o humano nascido herdeiro do reino subaquático de Atlântida, vai à tona para liderar seu povo contra seu meio-irmão, que busca unir os sete reinos contra o mundo da superfície.",
+    "imagem": "https://m.media-amazon.com/images/I/91qc-4BkJbL._AC_UF1000,1000_QL80_.jpg",
+    "capa": "https://m.media-amazon.com/images/I/91qc-4BkJbL._AC_UF1000,1000_QL80_.jpg",
+    "atores": [
+      {
+        "nome": "Jason Momoa",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jason_Momoa_by_Gage_Skidmore_2.jpg/1200px-Jason_Momoa_by_Gage_Skidmore_2.jpg"
+      },
+      {
+        "nome": "Amber Heard",
+        "imagem": "https://br.web.img2.acsta.net/pictures/19/11/27/23/32/2429874.jpg"
+      }
+    ],
+    "trailer": "WDkg3h8PCVU"
+  },
+  {
+    "id": 55,
+    "titulo": "Homem de Ferro 3",
+    "genero": "acao",
+    "data": "26 de abril de 2013",
+    "diretor": "Shane Black",
+    "bilheteria": "$1,215 bilhão",
+    "sinopse": "Tony Stark enfrenta um inimigo cujo alcance não tem limites.",
+    "imagem": "https://hqrock.com.br/wp-content/uploads/2013/03/iron-man-3-official-poster-imax-caracters.jpg",
+    "capa": "https://static.wikia.nocookie.net/dublagem/images/f/f1/Homem_de_Ferro_3.png/revision/latest?cb=20220604203241&path-prefix=pt-br",
+    "atores": [
+      {
+        "nome": "Robert Downey Jr.",
+        "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/18/06/29/00/35/0101925.jpg"
+      },
+      {
+        "nome": "Gwyneth Paltrow",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7uLqfFiHZn8tkh6ebfKatRSmYBw0M8UkKIxanvjBbIW_DYDn"
+      }
+    ],
+    "trailer": "2CzoSeClcw0"
+  }
+    ]
+  }
+  

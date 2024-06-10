@@ -1,0 +1,31 @@
+src
+  models
+    filme.models.js
+  controllers
+    filme.controller.js
+  config
+    filme.config.js
+  routes
+    filme.routes.js
+  services
+    filme.services.js 
+  uploads
+    filme.uploads.js
+index.js   
+
+crie para mim model com dados com essas configurações, use mongoose e express e typescript
+titulo
+genero
+data
+diretor
+bilheteria
+imagem
+capa
+sinopse
+atores[nome, imagem]
+trailer
+
+
+
+
+
